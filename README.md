@@ -1,2 +1,4 @@
-# alter_metadata_image_python
-Example alter metadata image in python language.
+### Example alter metadata image in python language.
+
+##### Requirements:
+- pyexiv2
